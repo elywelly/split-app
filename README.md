@@ -26,7 +26,7 @@ Password: test1234
 -   Bootstrap
 -   HTML/CSS
 -   Node JS
--   Express JS
+-   Express JS (incl. bcrypt, moments, pikadate)
 -   Postgres
 
 ## Vision
