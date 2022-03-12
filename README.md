@@ -1,10 +1,10 @@
 # Split App
 
+Group Project for GA's SEI06. 
+
 No more awkward conversations with your mates. The best way to split costs and track payments.
 
 View the website [here](https://split-app-project.herokuapp.com/)
-
-Group Project for GA's SEI.
 
 ### Test Data 1
 
@@ -119,10 +119,10 @@ When planning for the breakdown of task, we focused on delivering a minimum viab
 
 -   The splitting of tasks equally due to differing abilities of team members. Through stronger communication we talked about what cards everyone would like to work on moving forward.
 -   The plan behind the MVP was more complicated and time consuming than what we intially thought. Therefore, we added a 'canned' column to our trello board to ensure our MVP meets its main goals by the due date
--   Working through complicated SQL queries
+-   Working through complicated logic to write accurate SQL queries
 -   Backend error handling which we tackled
 
 ## Credits
 
-[Logo image](https://static.thenounproject.com/png/180195-200.png)
+[Logo image](https://static.thenounproject.com/png/180195-200.png) | 
 [Coolors](https://coolors.co/c200fb-fc2f00-ec7d10-ffbc0a)
