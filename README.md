@@ -6,6 +6,16 @@ View the website [here](https://split-app-project.herokuapp.com/)
 
 Group Project for GA's SEI.
 
+### Test Data 1
+
+Email: janedoe@test.com
+Password: test1234
+
+### Test Data 2
+
+Email: janedoe@test.com
+Password: test1234
+
 ## Screenshots
 
 ![Split Login](/assets/split-login.png)
