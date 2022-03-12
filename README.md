@@ -8,12 +8,12 @@ Group Project for GA's SEI.
 
 ### Test Data 1
 
-Email: janedoe@test.com
+Email: janedoe@test.com | 
 Password: test1234
 
 ### Test Data 2
 
-Email: janedoe@test.com
+Email: tomdoe@test.com | 
 Password: test1234
 
 ## Screenshots
